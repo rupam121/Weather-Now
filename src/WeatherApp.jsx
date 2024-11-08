@@ -20,7 +20,7 @@ function WeatherApp() {
   };
 
   useEffect(() => {
-    // Optional: fetch initial weather data on mount
+    // 
   }, []);
 
   return (
